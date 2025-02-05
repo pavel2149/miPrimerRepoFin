@@ -3,7 +3,6 @@ about: Crea un reporte de error para ayudarnos a mejorar
 title: "[BUG] Descripción breve"
 labels: bug
 assignees: ''
----
 
 **Describe el error**
 Una descripción clara y concisa del error.
